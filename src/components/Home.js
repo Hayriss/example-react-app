@@ -6,6 +6,7 @@ function Home() {
     <>
       <h1>Welcome to React Router!</h1>
       <h2>Welcome Home</h2>
+
       <nav>
         <NavLink
           to="/"

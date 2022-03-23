@@ -8,7 +8,7 @@ import Users from "./components/Users";
 import User from "./components/User";
 import NotFound from "./components/NotFound";
 
-function App() {
+export function App() {
   return (
     <div className="App">
       <Routes>
