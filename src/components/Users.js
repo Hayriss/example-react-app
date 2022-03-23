@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import { NavLink, Outlet } from "react-router-dom";
 import axios from "axios";
-// import User from "./User";
-// import SentUsers from "./SentUsers";
 
 function Users() {
   const [loading, setLoading] = useState(true);
