@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Link, NavLink, Outlet } from "react-router-dom";
+import { NavLink, Outlet } from "react-router-dom";
 import axios from "axios";
 // import User from "./User";
 // import SentUsers from "./SentUsers";
