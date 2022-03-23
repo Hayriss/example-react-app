@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  background-color: wheat;
+  color: white;
+  padding: 3px;
+}
+
+a {
+  text-decoration: none;
+}
